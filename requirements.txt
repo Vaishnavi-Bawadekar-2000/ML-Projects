@@ -2,5 +2,8 @@
 pandas
 numpy
 seaborn
-
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e .   #when 1st time build packge this 
